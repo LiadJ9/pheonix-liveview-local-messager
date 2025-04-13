@@ -1,0 +1,13 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+body {
+  font-family: 'Montserrat', 'Rubik';
+}
+
+.message-box {
+  @apply flex flex-col w-full p-2 bg-zinc-800 shadow-sm shadow-slate-900/50 rounded-lg text-white border-2;
+}
+
+/* This file is for your main application CSS */
