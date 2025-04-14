@@ -3,8 +3,12 @@
 This was created in 3 days in part of trying to get a better understanding of other approaches to web development, I really enjoyed my time trying to figure out and grasp and understanding of how elixir/pheonix works, and while I do appreciate the solutions it provides to long-term standing issues with web development, I don't think it will really apply to real-world use cases of complex and intricate websites, while it does shine in static data display and performance, it is not a viable solution for modern applications that require constant user feedback and as such, an app that responds.
 
 And the performace enhancements it does bring to the table make me think, do I really need this performance if 95% of devices on the planet can run builds of React/Angular/Vue or even plain HTML (which is getting better at being independent solution day by day), and would developers really invest their time learning a framework that is limited by design?
-
 Thank you for coming to my TED talk
+
+### "Features" 
+- Chat rooms implementations, using unique chatroom Id to know which room to send a message to
+- basic command functionalities like `/weather <city>` and `/clock`
+- Very basic css since I was only focusing on the pheonix implementation :)
 
 ### Project Setup
 
